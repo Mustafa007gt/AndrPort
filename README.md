@@ -8,7 +8,7 @@ AndrPort is an Android application dedicated to collecting and showcasing game p
 
 ## 📱 App Preview
 
-![AndrPort App Screenshot](assets/andrport-home.jpg)
+![AndrPort App Screenshot](https://i.ibb.co/bgRgbmtw/RDT-20261112-165441870797047605654373.png)
 
 ## ✨ Features
 
