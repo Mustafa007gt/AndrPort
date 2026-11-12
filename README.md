@@ -51,7 +51,7 @@ Check this page for future updates.
 
 GitHub: https://github.com/Mustafa007gt
 
-Telegram: https://t.me/mustafaGMZ
+Telegram: https://t.me/mustafaGWZ
 
 ---
 
